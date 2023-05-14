@@ -1,0 +1,21 @@
+#ln = len(csv_rows)
+#a = csv_rows[0][1]
+
+#prof_loss_data = [int(row[1]) for row in csvreader] # the values put in a list
+#prof_loss_sum = sum(prof_loss_data) 
+#num_months = len(prof_loss_data) 
+#mean_change = round(mean(p_l_changes),2) 
+#a = [i for i in range(len(prof_loss_data)-1) if prof_loss_data[i+1] - prof_loss_data[i] == max_inc_prof]
+#max_inc_idx = [i for i in range(len(p_l_changes)) if p_l_changes[i] == max_inc_prof]
+#val = [value[0] for value in csvreader if (int(value[1])==951227)]
+#max_dec_prof = min(p_l_changes) #Greatest Decrease in Profits    
+#a, b = max(enumerate(p_l_changes))
+#max_inc_idx = p_l_changes.index(max(p_l_changes))
+#a = sum(all_rows[0:]) # + all_rows[1][1]
+# Convert the CSV data into a matrix
+#data_matrix = list(csvreader)
+#num_months = len(data_matrix) - 1
+#num_cols= len(data_matrix[0])
+# Convert the profit/loss column into integers    
+#rows = [header] +     
+#a = sum(int(matrix[:][1])) #+ int(matrix[2][1])
