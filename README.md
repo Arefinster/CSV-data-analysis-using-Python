@@ -1,4 +1,4 @@
-# python-challenge
+# CSV data analysis using Python
 
 This work contains two tasks. They are as follows.
 
