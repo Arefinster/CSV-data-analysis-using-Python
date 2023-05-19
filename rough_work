@@ -19,3 +19,11 @@
 # Convert the profit/loss column into integers    
 #rows = [header] +     
 #a = sum(int(matrix[:][1])) #+ int(matrix[2][1])
+
+
+# Let's do a very manual way of finding the winner
+#maxVote = -1
+#for candidate in election_results:
+#    if candidate[2] > maxVote:
+#        maxVote = candidate[2]
+#        winner = candidate[0]

@@ -22,13 +22,6 @@ with open(csvpath, 'r', encoding='UTF-8') as csvfile:
     election_results = mf.vote_counter(csv_rows)
     winner_stat = max(election_results, key=itemgetter(2))
 
-# Let's do a very manual way of finding the winner
-#maxVote = -1
-#for candidate in election_results:
-#    if candidate[2] > maxVote:
-#        maxVote = candidate[2]
-#        winner = candidate[0]
-
 # Store all the results in a dictionary
 election_info = {
     'nVotes' : total_votes,
