@@ -19,3 +19,8 @@ In this task, a Python script is written to determine the election results recor
 main.py and my_functions.py. An algorithm is developed that goes through the voting records to obtain the candidates names and the total votes each of 
 them received. Python built-in functions such as list, zip, list comprehensions, ittemgetter (from module operator) are used to generate the results 
 and save them in a dictionary. A print function then prints these information on a seperate file and also to the console.
+
+
+NOTE: I have done this work myself alone. I did not work with anyone. I came up with the methods to the solutions. However, I did have to use Google into 
+various Python tutorial sites to figure out certain syntaxes. I also took help from a Learning Assistant to debug the final print function in the PyPoll
+directory. The Learning Assistant helped me identify the issue, I then resolved it myself.
