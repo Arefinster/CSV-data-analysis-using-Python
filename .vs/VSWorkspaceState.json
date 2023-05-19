@@ -4,10 +4,11 @@
     "\\Images",
     "\\PyBank",
     "\\PyBank\\Analysis",
+    "\\PyBank\\Resources",
     "\\PyPoll",
     "\\PyPoll\\Analysis",
     "\\PyPoll\\Resources"
   ],
-  "SelectedNode": "\\PyPoll\\Analysis\\Results.txt",
+  "SelectedNode": "\\PyBank\\Resources\\budget_data.csv",
   "PreviewInSolutionExplorer": false
 }
